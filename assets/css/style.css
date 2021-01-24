@@ -1,0 +1,61 @@
+html {
+    scroll-behavior: smooth;
+}
+
+nav {
+    box-shadow: 0px 0px 5px black;
+}
+
+.hero-section {
+    background-image: url('../img/hero.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+  }
+
+body {
+    font-family: Lato;
+}
+
+h2,h3,h4 {
+    font-weight: 700;
+}
+
+a {
+    text-decoration: none;
+    color: #000000;
+}
+
+h5 {
+    font-weight: 400;
+
+}
+
+p {
+    font-weight: 100;
+}
+
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    height: 2px;
+    opacity: 0.9;
+    width: 100px;
+  }
+
+.bg-perso {
+    background-color: #F3F7F6;
+}
+
+.espaciado {
+    line-height: 200%;
+}
+
+footer a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.efecto:hover {
+    box-shadow: 0px 0px 7px black;
+}
